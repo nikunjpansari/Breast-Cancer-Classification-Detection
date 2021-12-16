@@ -23,7 +23,7 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 They describe characteristics of the cell nuclei present in the image.
 
 ## B. Training the models with Data
-The data taken is from **https://www.kaggle.com/uciml/breast-cancer-wisconsin-data**
+Dataset : [breast-cancer-Wisconsin-data](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 ## C. Implemented the following:
 
@@ -45,4 +45,4 @@ The environment plays a vital role in the implementation phase and with that not
 
 
 ## Model Implementation:
-Breast-Cancer-Classification-Detection : 
+[Breast-Cancer-Classification-Detection](https://github.com/nikunjpansari/Breast-Cancer-Classification-Detection/tree/main/Implementation) 
